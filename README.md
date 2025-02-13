@@ -2,10 +2,13 @@
 This is an implementation ofthe  following paper<br><br>
 Hitoshi Yoshioka, and Hirotada Hashimoto.<br>
 "Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions".<br>
-Applied Ocean Research.<be>
+Applied Ocean Research.<br><br>
+Folder: SubtaskCritics<br>
+This is code for development and validation.<br><br>
+Folder: SubtaskCriticsAttention<br>
+This is code which the actor network comprising the attention mechanism is implemented.<br><be>
 
-
-the actor network comprising the attention mechanism
+Learning settings are same in both.<br>
 
 # Conda environment
 python=3.9.18<br>
