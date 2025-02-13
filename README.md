@@ -4,6 +4,9 @@ Hitoshi Yoshioka, and Hirotada Hashimoto.<br>
 "Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions".<br>
 Applied Ocean Research.<be>
 
+
+the actor network comprising the attention mechanism
+
 # Conda environment
 python=3.9.18<br>
 pip==24.0<br>
