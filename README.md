@@ -25,11 +25,7 @@ setuptools==66.0.0<br>
 wheel==0.38.4<br>
 gym==0.21.0<br>
 pyglet==1.5.26<br>
-wandb==0.13.0<br>
-
-
 # Run
 python main.py
-
-# Conntact
+# Conntact us
 Hitoshi Yoshioka: su23152i@st.omu.ac.jp
