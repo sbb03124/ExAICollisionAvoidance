@@ -6,10 +6,9 @@ Applied Ocean Research.<br><br>
 Folder: SubtaskCritics<br>
 This is code for development and validation.<br><br>
 Folder: SubtaskCriticsAttention<br>
-This is code which the actor network comprising the attention mechanism is implemented.<br><be>
-
+This is code which the actor network comprising the attention mechanism is implemented.<br><br>
 Learning settings are same in both.<br>
-
+"vizualize.ipynb" is ipython code to visualize validation results.
 # Conda environment
 python=3.9.18<br>
 pip==24.0<br>
